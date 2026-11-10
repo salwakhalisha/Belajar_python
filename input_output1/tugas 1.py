@@ -1,0 +1,13 @@
+print("Nama: Annisa Karima")
+print("Umur: 28")
+print("Pekerjaan Dosen")
+print("annisakarima@unimal.ac.id")
+print("Prodi: Sistem Informasi")
+print("Universitas Malikussaleh")
+
+print("Nama: Salwa Khalisha")
+print("Umur: 18")
+print("Mahasiswa")
+print("salwa.260180105@unimal.ac.id")
+print("Prodi: Sistem Informasi")
+print("Universitas Malikussaleh") 
